@@ -1,5 +1,5 @@
 ---
-title: stocad - Digital Garden - Seedlings / Greenhouse
+title: Seedlings / Greenhouse
 ---
 ## What is this?
 I am forever stumbling across topics I'd like to explore further. It can be easy to bikeshed [^1] and never complete my current thought. This is the greenhouse where I'm going to plant these seedlings which may get the attention they need to be evergreen members of my garden, or they may live here pending future pruning. Either way, I can move forward without them stealing my focus away from what I'm currently working on.

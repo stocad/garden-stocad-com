@@ -1,5 +1,5 @@
 ---
-title: stocad - Digital Garden - Garden Projects
+title: Garden Projects
 ---
 ### Tooling
 - [x] Get garden.stocad.com deploying CI/CD onto Amplify using github
