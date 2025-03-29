@@ -1,5 +1,5 @@
 ---
-title: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+title: Content License
 ---
 
 # Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International

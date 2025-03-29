@@ -47,6 +47,8 @@ Back in the AWS Amplify App console, under Hosting > Custom domain.
 3. Open Cloudflare and copy both the verify and subdomain records across to Cloudflare (or wherever you manage DNS)
 4. And, after a minute of waiting and an odd resolution error message, [there it is](https://garden.stocad.com/)!
 
+Local development is made easy by running `npx quartz build --serve`, which I am now using to iterate locally before publishing.
+
 [^1]: https://obsidian.rocks/creating-a-digital-garden-in-obsidian/
 [^2]: https://jzhao.xyz/posts/networked-thought#what-is-digital-gardening
 [^3]: https://creativecommons.org/licenses/by-nc-sa/4.0/
