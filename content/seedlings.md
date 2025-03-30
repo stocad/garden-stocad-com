@@ -16,6 +16,7 @@ I am forever stumbling across topics I'd like to explore further. It can be easy
 - Protectionism: Proactive vs reactive, the pros and cons. Why in the United States big business hucksters are allowed to prey on us with deceptive products that hurt most of their customers.
 - Bill pay automation and habit: Practical patterns for managing anxiety and living a low stress life while also being a responsible adult.
 - Paperless: The pros and cons of paperless living. Why its hard to get entirely away from paper.
+- Annual review processes: Why do companies ask employees to write reviews / feedback? How should you think about this process?
 
 ### App Ideas
 A note here: Yes, I am sharing ideas of things that someone could make and derive money from. No, this doesn't bother me. These are things that I want to exist in the world. I hope to build some of them, if someone else has already built some or all of these and I am able to use them on acceptable terms, thats one less thing for me to do...
