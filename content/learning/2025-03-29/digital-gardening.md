@@ -5,7 +5,7 @@ The basic idea here is to host public only content in the digital gardening. [^1
 
 This raises the question of content rights. For the moment, I am adding the CC BY-NC-SA[^3] license to the footer. I think this best captures the intent of what I'm doing.
 
-I'm tempted to launch into a ramble about no-motes, no-kings, but I'll plant those as [[seedlings]] for another time.
+I'm tempted to launch into a ramble about no-motes, no-kings, but I'll plant those as [[greenhouse]] for another time.
 
 Alright, lets get this up on the internet before I get lost down any other rabbit trails.
 

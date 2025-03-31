@@ -7,7 +7,7 @@ Recently, I've been reading more and more about [Fair code](https://faircode.io/
 
 Some projects are so fundamental that corporate sponsorship is easy; I'm thinking of standards bodies like ISO and W3C or Apache which comes to own a good number of key components that make the web work. A great many others are less fortunate and well liked projects are routinely abandoned as a result of not finding sponsorship.
 
-This is turning into a ramble that I will likely rehome elsewhere. For now I'll put a [[seedlings|seedling]] out there to return to it later.
+This is turning into a ramble that I will likely rehome elsewhere. For now I'll put a [[greenhouse|seedling]] out there to return to it later.
 
 Characteristics I'm looking for:
 - Open source: As in, I can read the source-code
