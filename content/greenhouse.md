@@ -9,7 +9,7 @@ I am forever stumbling across topics I'd like to explore further. It can be easy
 ### Philosophizing
 - no-motes: Motes in the business sense diminish human flourishing. Medical advances or process innovations become guarded secrets to build a small empire instead of being for the betterment of society in general.
 - no-kings: The idea is simple, equality means that there are no and can be no kings, no emperors. I first encountered this under [the doomtree](https://en.wikipedia.org/wiki/No_Kings) banner and more recently it has taken on a more [directly political meaning](https://www.congress.gov/bill/118th-congress/senate-bill/4973/text)
-- Open Source and Fair Code: Refer to the ramble I started down over on the [[Tools/index|Tools]] homepage
+- Open Source and Fair Code: Refer to the ramble I started down over on the [[tools/index|Tools]] homepage
 - Recycling: The floor of St. John Lateran is a patterned mosaic of the ruins of other Roman buildings. Are our lives being built with material valuable enough to repurpose as our calling changes? Alternatively, are we aware of all the ways our lives are built on the ruined thoughts of antiquity as an alternative to standing on the shoulders of giants.
 - Recycling and the [Mathusian Swerve](https://radiolab.org/podcast/malthusian-swerve): Further thoughts on how we quantify resources relative to grand buildings like St. John Lateran and how recycling of materials will be necessary to avoid full depletion of many resources.
 - How art/entertainment are funded: From benefactors to soap operas.
@@ -34,7 +34,7 @@ I am forever stumbling across topics I'd like to explore further. It can be easy
 - Annual review processes: Why do companies ask employees to write reviews / feedback? How should you think about this process?
 - Getting things done / Inbox 0: Tools I find useful in managing life.
 
-### App Ideas
+### App/Project Ideas
 A note here: Yes, I am sharing ideas of things that someone could make and derive money from. No, this doesn't bother me. These are things that I want to exist in the world. I hope to build some of them, if someone else has already built some or all of these and I am able to use them on acceptable terms, thats one less thing for me to do...
 
 - Maintenance cycle tracking: All of people, animals and things have maintenance/management cycles. It would be amazing to have a single dashboard tracking all outstanding maintenance/management actions needed to adult well. Ideally this would integrate with your todo/notification systems. Syncing is hard. Maybe its enough to have one place to track things like this.
@@ -45,5 +45,6 @@ A note here: Yes, I am sharing ideas of things that someone could make and deriv
 - Neighborhood community cooperative services - A cooperative service buying social network focused on connecting neighbors and their local service providers. One part Angie's list, one part nextdoor, one part collective bargaining.
 - Customer backchannel for Growth engineers - How often has a notification, email, popup pushed with the intent of increasing conversions made you grow in dislike for a brand in a lasting way? What if these connection points had a direct feedback mechanism? Build a platform/mechanism for giving immediate feedback into growth engineering campaigns.
 - Github issues management platform - Issues can be hard to track and having a platform to track/manage KPIs for your github issues tuned by your needs is high value to earn develper trust with your users. This would pair well with some amount of dashboarding/monitoring/alarming.
+- [[NASA-BIDARA-prompt|BIDARA prompt]] for evaluating project ideas.
 
 [^1]: https://en.wiktionary.org/wiki/bikeshedding

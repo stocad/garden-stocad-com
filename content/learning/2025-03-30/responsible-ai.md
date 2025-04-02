@@ -1,7 +1,7 @@
 The following are my notes from a
 ## Guidance in laws / standards
- - [ISO 42001](https://www.iso.org/standard/81230.html) - ISO standard for AI safety - [[Learning/2025-03-30/ISO42001-Summary|Summary]]  
- - [EU AI Act](https://artificialintelligenceact.eu/) - EU act for AI safety - [[Learning/2025-03-30/EU-AI-Act-Summary|Summary]]  
+ - [ISO 42001](https://www.iso.org/standard/81230.html) - ISO standard for AI safety - [[ISO42001-Summary|Summary]]  
+ - [EU AI Act](https://artificialintelligenceact.eu/) - EU act for AI safety - [[EU-AI-Act-Summary|Summary]]  
 
 ### What is AI?
 AI is anything that would customarily need human intelligence to complete the action that can be completed by machines. Industrial revolution?
