@@ -41,6 +41,9 @@ A note here: Yes, I am sharing ideas of things that someone could make and deriv
 - Flash cards for learning notes: Define a pattern for capturing flash cards into learning notes and offer an interface for reviewing to memorize.
 - Votes/comments/annotations for everything: A minimal browser extension for annotating the internet. Allow sites to enhance users experiences by auto tagging lists/resources with. Public/Private/Protected.
 - Deep linking standard: For youtube, videos are easy to deeplink. It looks like there's a similar standard in Spotify. It would be nice to create link sharing that subsumes my listening/viewing platform so that a reader can view the content, at the start position I have shared on their platform of choice.
-- 
+- TOS Tracker - A browser extension that logs the TOS/Agreements encountered by the user as they browse. This could provide stock feedback as a free tier and very custom feedback for a paid tier.
+- Neighborhood community cooperative services - A cooperative service buying social network focused on connecting neighbors and their local service providers. One part Angie's list, one part nextdoor, one part collective bargaining.
+- Customer backchannel for Growth engineers - How often has a notification, email, popup pushed with the intent of increasing conversions made you grow in dislike for a brand in a lasting way? What if these connection points had a direct feedback mechanism? Build a platform/mechanism for giving immediate feedback into growth engineering campaigns.
+- Github issues management platform - Issues can be hard to track and having a platform to track/manage KPIs for your github issues tuned by your needs is high value to earn develper trust with your users. This would pair well with some amount of dashboarding/monitoring/alarming.
 
 [^1]: https://en.wiktionary.org/wiki/bikeshedding
